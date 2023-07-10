@@ -18,7 +18,7 @@
 ## Model used details
 
 | Model  | Accuracy (%) | Needed normalization |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Decision Tree  | 73.37  | No  |
 | Rainforest  | 75.81  | No  |
 | KNN  | 78.31  | Yes  |
